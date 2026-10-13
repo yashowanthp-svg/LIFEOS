@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS — Your Personal Operating System",
+  "description": "AI-powered personal productivity platform with intelligent daily scheduling, task management, habit tracking, focus timer, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
